@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Trap
+  - Powerup
+  - Enemy
+  - Obstacle
+  - Tool
+  - Floor
+  - Wall
+  - Portal
+  - Bullet
+  - Bayonet
+  - Shield
+  - Platform
+  - FxTemporaire
+  - Fire
+  - Arrow
+  - Sword
+  - RocketLauncher
+  - FloorRocketLauncher
+  - Projectile
+  - Boulder
+  - AmmoPickup
+  - Key
+  - Dragon
+  - Breath
+  - Fuel
+  - FireTrap
+  - PlayerShield
+  - RocketPickup
+  - Fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bayonet
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Wall
+  - Fire
+  - Projectile
+  - Portal
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
